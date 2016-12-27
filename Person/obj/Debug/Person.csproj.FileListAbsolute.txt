@@ -1,0 +1,5 @@
+C:\Users\bobdo\OneDrive\Documents\AZURE\SF-APP\Person\bin\Debug\Person.dll
+C:\Users\bobdo\OneDrive\Documents\AZURE\SF-APP\Person\bin\Debug\Person.pdb
+C:\Users\bobdo\OneDrive\Documents\AZURE\SF-APP\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\bobdo\OneDrive\Documents\AZURE\SF-APP\Person\obj\Debug\Person.dll
+C:\Users\bobdo\OneDrive\Documents\AZURE\SF-APP\Person\obj\Debug\Person.pdb
